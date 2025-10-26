@@ -17,15 +17,23 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA Lead: defines testing strategies, validates quality and acceptance criteria.
+- Risk Manager: identifies, assesses, and tracks project risks and mitigation plans.
+- Communications Lead: ensures consistent stakeholder communication and alignment.
+- Change Control Coordinator: manages change requests and ensures proper review/approval.
 - Stakeholders: provide inputs and approvals.
+
+See [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) for detailed role descriptions and interactions.
 
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
-- Risk Register
+- Risk Register ([template](template-risk-register.md))
+- Communication Plan ([template](template-communication-plan.md))
+- Change Request Forms ([template](template-change-request-form.md))
+- QA Checklists ([template](template-qa-checklist.md))
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)
